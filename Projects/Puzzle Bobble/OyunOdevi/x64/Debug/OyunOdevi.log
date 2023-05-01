@@ -1,0 +1,14 @@
+﻿  Oyun.cpp
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\temeller.h(18,25): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\Oyun.cpp(166,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\Oyun.cpp(174,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\Oyun.cpp(192,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\Oyun.cpp(275,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\Oyun.cpp(275,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\Oyun.cpp(303,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\temeller.h(18,25): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Top.cpp
+C:\Users\Abdullah\Desktop\My Projects\C++ Game\Projeler\Tetris\OyunOdevi\temeller.h(18,25): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Generating Code...
+  OyunOdevi.vcxproj -> C:\Users\Abdullah\Desktop\My Projects\C++ Game\Bin\OyunOdevi.exe
